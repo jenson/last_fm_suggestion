@@ -13,4 +13,4 @@ Provide username & Password as 'jenson'
 
 Made with:
 
-PHP, Bootstrap, jQuery, last.fm (http://www.last.fm/api)
+PHP, Bootstrap, jQuery, last.fm api (http://www.last.fm/api)
