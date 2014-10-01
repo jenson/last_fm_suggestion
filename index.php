@@ -9,7 +9,7 @@ index.php
 */
 
 session_start();
-
+error_reporting(0);
 $uname = $_SESSION['uname'];
 $uid = $_SESSION['uid'];
 
